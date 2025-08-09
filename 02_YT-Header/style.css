@@ -1,0 +1,31 @@
+body{
+    margin:0;
+    font-family:cursive;
+}
+.hastag-header{
+    background-color: #065FD4;
+   color:white;
+   padding:4rem;
+   background-image: url(/background.png);
+  background-size: 415px;
+   background-position-x:100%;
+   background-position-y: -210px;
+   background-repeat: no-repeat;
+}
+span{
+    font-size:4rem;
+}
+h1{
+    font-size:3rem;
+}
+.hastag-header img{
+    width:5rem;
+    height:5rem;
+    border: 6px solid white;
+    border-radius: 100%;
+ 
+vertical-align: middle;
+}
+img+img{
+    margin-left: -1rem;
+}
